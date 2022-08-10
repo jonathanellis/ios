@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/iProov/ios/tree/master/iProovAPIClient'
   s.license          = { :type => 'BSD-3', :file => 'LICENSE' }
   s.author           = { 'iProov' => 'support@iproov.com' }
-  s.source           = { :podspec => 'https://raw.githubusercontent.com/iProov/ios/master/iProovAPIClient/iProovAPIClient.podspec' }
+#  s.source           = { :podspec => 'https://raw.githubusercontent.com/iProov/ios/master/iProovAPIClient/iProovAPIClient.podspec' }
   s.ios.deployment_target = '10.0'
   s.source_files = 'iProovAPIClient/Classes/**/*'
 
